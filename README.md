@@ -143,13 +143,4 @@ Use these badges at the top of your README to visually show the health and matur
 
 ---
 
-### ✍️ Example Top of README
 
-```markdown
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]
-[![Status: Active](https://img.shields.io/badge/status-active-green.svg)]
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)]
-
-# 🎉 Real‑Time Chat Room
-...  
-```
